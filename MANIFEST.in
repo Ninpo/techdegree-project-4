@@ -1,0 +1,3 @@
+include versioneer.py
+include src/work_log/_version.py
+include README.md
